@@ -1,0 +1,20 @@
+---
+title: "Week 1"
+author: ''
+date: '2022-09-01'
+slug: week-1
+categories: []
+tags: []
+---
+
+## Syllabus
+
+[pdf](/pdf/Syllabus.pdf)
+
+## Recap
+
+[Econ Recap 1](/pdf/Econ_Recap_1.pdf)
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/cr8ZHP5XTBooOlyfUygQfu5Nhgcve043tOFI6ZJYYVrQ-1uIfZ33IgpQuRRaEZYrzyPt00_nrAGgxP69.CVMlOGGMZgSjdP_i?continueMode=true&_x_zm_rtaid=j4EJGdacQIONpWK5hr9y7A.1662827614342.cea8fcff6b200eff2bed25fac46a2f9d&_x_zm_rhtaid=102)
