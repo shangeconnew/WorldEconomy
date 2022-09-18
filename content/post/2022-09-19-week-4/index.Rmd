@@ -1,0 +1,24 @@
+---
+title: Week 4
+author: ''
+date: '2022-09-19'
+slug: week-4
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+
+
+[The Ricardian Model](/pdf/TheRicardianModel.pdf)
+
+- Start at pp54!
+
+[Case Study 1: Bangladash](/pdf/bangladesh_ready_made_garment_landscape.pdf)
+
+<!-- [Internation Trade Overview](/pdf/InternationTradeOverview.pdf) -->
+
+<!-- ## Video Link -->
+
+<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/lD5lhTqL1Pav2QcJ9L-xWzA3w5tsoQ9hyZbAYMHSfVq9vH9OfbHJLovznSJ1QSMjlwgxhNJxCNzdntly.A0bC1JCYrDklu1qG?continueMode=true&_x_zm_rtaid=Y7K9mQGgSWKdM94wjzfLgQ.1663519153905.88f5715a92598dac1a2be9f47b9ce9dc&_x_zm_rhtaid=468) -->
