@@ -17,7 +17,7 @@ tags: []
 
 [Case Study 1: Bangladash](/pdf/bangladesh_ready_made_garment_landscape.pdf)
 
-<!-- [Internation Trade Overview](/pdf/InternationTradeOverview.pdf) -->
+[China and WTO](/pdf/China_and_WTO.pdf)
 
 ## Video Link
 
