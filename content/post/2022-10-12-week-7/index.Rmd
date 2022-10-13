@@ -9,6 +9,8 @@ tags: []
 
 ## The Prize in Economic Sciences 2022
 
+10 October 2022
+
 The Royal Swedish Academy of Sciences has decided to award the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2022 to
 
 **Ben S. Bernanke**
@@ -46,3 +48,9 @@ Illustration: [Loan loss (pdf)](/image/press-economicsciencesprize2022-figure3.p
 [Popular science background: The laureates explained the central role of banks in financial crises (pdf)](/pdf/popular-economicsciencesprize2022.pdf)
 
 [Scientific Background: Financial intermediation and the economy (pdf)](/pdf/advanced-economicsciencesprize2022-2.pdf)
+
+## Video
+
+- [Prize announcement](https://www.youtube.com/watch?v=tJhbHt5zX5o&t=41s)
+
+- [Interview about the awarded work](https://www.youtube.com/watch?v=rQu-R7epxdM&t=148s)
