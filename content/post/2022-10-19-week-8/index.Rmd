@@ -1,0 +1,27 @@
+---
+title: Week 8
+author: ''
+date: '2022-10-19'
+slug: week-8
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+- [A pair of Levi's that sold for $76K reflects anti-Chinese sentiment of 19th century ](https://www.npr.org/2022/10/14/1128843922/vintage-levis-jeans-1880s-sold-thousands-racist-anti-chinese)
+
+- [As Chinese Exclusion Act Turns 135, Experts Point To Parallels Today](https://www.npr.org/sections/codeswitch/2017/05/05/527091890/the-135-year-bridge-between-the-chinese-exclusion-act-and-a-proposed-travel-ban)
+
+- [Pres. Biden wants to end U.S. reliance on China. Could Beijing show us the way?](https://www.wbur.org/onpoint/2022/10/12/pres-biden-wants-to-end-u-s-reliance-on-china-could-beijing-show-us-the-way)
+
+<!-- - [The Nobel Prize in Economic Sciences 2022](/pdf/case_study_2.pdf) -->
+
+<!-- - [Krugman's Paper](/pdf/WhatDoUndergradNeed2KnowAboutTrade.pdf) -->
+
+<!-- - [Specific Factors and Income Distribution](/pdf/SpecificFactorsIncomeDistribution.pdf) -->
+<!--   - Start at pp43! -->
+
+<!-- ## Video Link -->
+
+<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/9wt3dO7OcMnoTBjAeTi-r3S3HWD1rS_-3O2O9010Dv9x-G9teNdQoVuos2dAj_F75ecOtF9fBreALvLX.JaMPoginI2RNzFyw?continueMode=true&_x_zm_rtaid=8LKaaAeYQZCqsptvIQR8Sg.1666235429615.1729411514fc868b7db6aea2bb39ff50&_x_zm_rhtaid=146) -->
