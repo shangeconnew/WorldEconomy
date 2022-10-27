@@ -17,11 +17,12 @@ tags: []
 
 <!-- - [The Nobel Prize in Economic Sciences 2022](/pdf/case_study_2.pdf) -->
 
-<!-- - [Krugman's Paper](/pdf/WhatDoUndergradNeed2KnowAboutTrade.pdf) -->
+- [The United States in a New Global Economy? A Century's Perspective](/pdf/USinaNewGlobalEconomy.pdf)
 
-<!-- - [Specific Factors and Income Distribution](/pdf/SpecificFactorsIncomeDistribution.pdf) -->
-<!--   - Start at pp43! -->
+- [Resources and Trade: The Heckscher-Ohlin Model
+](/pdf/The Heckscher-Ohlin Model.pdf)
+  - Stops at pp32!
 
-<!-- ## Video Link -->
+## Video Link
 
-<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/9wt3dO7OcMnoTBjAeTi-r3S3HWD1rS_-3O2O9010Dv9x-G9teNdQoVuos2dAj_F75ecOtF9fBreALvLX.JaMPoginI2RNzFyw?continueMode=true&_x_zm_rtaid=8LKaaAeYQZCqsptvIQR8Sg.1666235429615.1729411514fc868b7db6aea2bb39ff50&_x_zm_rhtaid=146) -->
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/fvnzREUNlO7gpsIoG7IgUGBXhRW5MrmrgqO8HuJy9BgN628NMgGeSMf3i4y0uElsqnuTsmH4X5fK2y__.Z2He9_lhDS-nE-J6?continueMode=true&_x_zm_rtaid=e2wYm-tdSaGjTUJXkbAdbg.1666842659735.4d5cb408f46b5172724c05af019f2171&_x_zm_rhtaid=874)
