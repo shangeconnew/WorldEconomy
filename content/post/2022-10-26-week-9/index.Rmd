@@ -1,7 +1,7 @@
 ---
-title: Week 9
+title: "Week 9"
 author: ''
-date: '2022-10-26'
+date: '2022-10-27'
 slug: week-9
 categories: []
 tags: []
@@ -9,19 +9,18 @@ tags: []
 
 ## What have we covered this week?
 
+- [Project updates: topics and due dates](https://chinawto.netlify.app/2022/10/27/project/)
+
 - [What The U.S.-China Trade War Has Meant For North Carolina Tobacco Farmers](https://www.npr.org/2019/11/08/777753420/what-the-u-s-china-trade-war-has-meant-for-north-carolina-tobacco-farmers)
 
 - [Farmers Sticking By Trump Even As Trade Wars Bite](https://www.npr.org/sections/thesalt/2019/10/10/768635489/farmers-sticking-by-trump-even-as-trade-wars-bite)
 
 
-<!-- - [The Nobel Prize in Economic Sciences 2022](/pdf/case_study_2.pdf) -->
+- [Resources and Trade: The Heckscher-Ohlin Model](/pdf/The Heckscher-Ohlin Model.pdf)
+  - Starts at pp32 and finished!
+  
+- [What the Public Should Know about Globalization and the World Trade Organization](/pdf/GloabalizationWTO4Public.pdf)
 
-<!-- - [The United States in a New Global Economy? A Century's Perspective](/pdf/USinaNewGlobalEconomy.pdf) -->
+## Video Link
 
-<!-- - [Resources and Trade: The Heckscher-Ohlin Model -->
-<!-- ](/pdf/The Heckscher-Ohlin Model.pdf) -->
-<!--   - Stops at pp32! -->
-
-<!-- ## Video Link -->
-
-<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/fvnzREUNlO7gpsIoG7IgUGBXhRW5MrmrgqO8HuJy9BgN628NMgGeSMf3i4y0uElsqnuTsmH4X5fK2y__.Z2He9_lhDS-nE-J6?continueMode=true&_x_zm_rtaid=e2wYm-tdSaGjTUJXkbAdbg.1666842659735.4d5cb408f46b5172724c05af019f2171&_x_zm_rhtaid=874) -->
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/ZkCVltHUY6mrXHBmqFWmtlKE_sWHNjXxPDJsGywt9zJFnRdDS1mTwSC4GGusu7AKqQioFJrY4fxvOvKa.h7vu53doO8kMoE5f?continueMode=true&_x_zm_rtaid=NUhqxCzsQ7SCXQshFBVI3A.1667446866845.316790f6806addf870e0f14e0e023535&_x_zm_rhtaid=195)

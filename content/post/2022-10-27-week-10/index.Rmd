@@ -1,9 +1,27 @@
 ---
-title: week 10
+title: "week 10"
 author: ''
-date: '2022-10-27'
+date: '2022-11-2'
 slug: week-10
 categories: []
 tags: []
 ---
-hello
+## What have we covered this week?
+
+- [A pair of Levi's that sold for $76K reflects anti-Chinese sentiment of 19th century ](https://www.npr.org/2022/10/14/1128843922/vintage-levis-jeans-1880s-sold-thousands-racist-anti-chinese)
+
+<!-- - [As Chinese Exclusion Act Turns 135, Experts Point To Parallels Today](https://www.npr.org/sections/codeswitch/2017/05/05/527091890/the-135-year-bridge-between-the-chinese-exclusion-act-and-a-proposed-travel-ban) -->
+
+<!-- - [Pres. Biden wants to end U.S. reliance on China. Could Beijing show us the way?](https://www.wbur.org/onpoint/2022/10/12/pres-biden-wants-to-end-u-s-reliance-on-china-could-beijing-show-us-the-way) -->
+
+<!-- <!-- - [The Nobel Prize in Economic Sciences 2022](/pdf/case_study_2.pdf) --> -->
+
+<!-- - [The United States in a New Global Economy? A Century's Perspective](/pdf/USinaNewGlobalEconomy.pdf) -->
+
+<!-- - [Resources and Trade: The Heckscher-Ohlin Model -->
+<!-- ](/pdf/The Heckscher-Ohlin Model.pdf) -->
+<!--   - Stops at pp32! -->
+
+<!-- ## Video Link -->
+
+<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/ZkCVltHUY6mrXHBmqFWmtlKE_sWHNjXxPDJsGywt9zJFnRdDS1mTwSC4GGusu7AKqQioFJrY4fxvOvKa.h7vu53doO8kMoE5f?continueMode=true&_x_zm_rtaid=NUhqxCzsQ7SCXQshFBVI3A.1667446866845.316790f6806addf870e0f14e0e023535&_x_zm_rhtaid=195) -->
