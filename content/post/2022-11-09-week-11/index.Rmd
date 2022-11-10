@@ -1,0 +1,44 @@
+---
+title: "Week 11"
+author: ''
+date: "2022-11-09"
+slug: "week-11"
+categories: []
+tags: []
+---
+
+## What have we covered this week?
+
+- Update of Grading Scheme:
+
+  <center> 
+| Problem   Sets 	|  	|  	| 20% 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Attendance and Participation 	|  	|  	| 20% 	|
+|       Course project    	|  	|  	| 60% 	|               
+
+- [Projects](https://chinawto.netlify.app/2022/10/27/project/)    
+<!-- \begin{table}[h] -->
+<!-- \begin{tabular}{llll} -->
+<!-- Problem   Sets               &  &  & 20\% \\ -->
+<!-- Attendance and Participation &  &  & 20\% \\ -->
+<!-- Course project               &  &  & 60\% -->
+<!-- \end{tabular} -->
+<!-- \end{table} -->
+
+- [How Bangladesh went from an economic miracle to needing IMF help](https://www.npr.org/2022/11/09/1134543648/bangladesh-economy-imf-loan)
+
+- [Here's what happened on day 4 of the U.N.'s COP27 climate talks](https://www.npr.org/2022/11/09/1135473345/heres-what-happened-on-day-4-of-the-u-n-s-cop27-climate-talks)
+
+<!-- - [Why the U.S. might not win the global economy without Canada and Mexico](https://www.npr.org/sections/money/2022/10/11/1127505616/why-the-u-s-might-not-win-the-global-economy-without-canada-and-mexico) -->
+
+<!-- - [Two dozen business groups wrote an open letter to Yellen and U.S. Trade Representative Katherine Tai](https://www.uschina.org/advocacy/regulatory-comments-on-china/industry-letter-us-china-trade-and-commercial-relations?utm_source=npr_newsletter&utm_medium=email&utm_content=20211206&utm_term=6068773&utm_campaign=money&utm_id=8338826&orgid=&utm_att1=money) -->
+
+<!-- - [What the Public Should Know about Globalization and the World Trade Organization](/pdf/GloabalizationWTO4Public.pdf) -->
+
+<!-- - [Introduction to WTO](/pdf/intro_to_WTO.pdf) -->
+<!--   - Stops at pp28! -->
+
+<!-- ## Video Link -->
+
+<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/_QTUQz_RW1gym0Wi7SMAlenmJuZ7e7oJbmwWB-Ltk0LNbkQAqn9HxrowtRe9Bws5SPvEiq6zb-aikfzj.w52z-Y9KyQ9vZqxx?continueMode=true&_x_zm_rtaid=Q6lmJll_Qi-Fz9ZwFnkuJg.1668054002826.466aca8646f579ec0c4d04cd84a17ebb&_x_zm_rhtaid=679) -->
