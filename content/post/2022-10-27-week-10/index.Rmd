@@ -18,12 +18,11 @@ tags: []
 
 - [Two dozen business groups wrote an open letter to Yellen and U.S. Trade Representative Katherine Tai](https://www.uschina.org/advocacy/regulatory-comments-on-china/industry-letter-us-china-trade-and-commercial-relations?utm_source=npr_newsletter&utm_medium=email&utm_content=20211206&utm_term=6068773&utm_campaign=money&utm_id=8338826&orgid=&utm_att1=money)
 
-<!-- - [The United States in a New Global Economy? A Century's Perspective](/pdf/USinaNewGlobalEconomy.pdf) -->
+- [What the Public Should Know about Globalization and the World Trade Organization](/pdf/GloabalizationWTO4Public.pdf)
 
-<!-- - [Resources and Trade: The Heckscher-Ohlin Model -->
-<!-- ](/pdf/The Heckscher-Ohlin Model.pdf) -->
-<!--   - Stops at pp32! -->
+- [Introduction to WTO](/pdf/intro_to_WTO.pdf)
+  - Stops at pp28!
 
-<!-- ## Video Link -->
+## Video Link
 
-<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/ZkCVltHUY6mrXHBmqFWmtlKE_sWHNjXxPDJsGywt9zJFnRdDS1mTwSC4GGusu7AKqQioFJrY4fxvOvKa.h7vu53doO8kMoE5f?continueMode=true&_x_zm_rtaid=NUhqxCzsQ7SCXQshFBVI3A.1667446866845.316790f6806addf870e0f14e0e023535&_x_zm_rhtaid=195) -->
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/_QTUQz_RW1gym0Wi7SMAlenmJuZ7e7oJbmwWB-Ltk0LNbkQAqn9HxrowtRe9Bws5SPvEiq6zb-aikfzj.w52z-Y9KyQ9vZqxx?continueMode=true&_x_zm_rtaid=Q6lmJll_Qi-Fz9ZwFnkuJg.1668054002826.466aca8646f579ec0c4d04cd84a17ebb&_x_zm_rhtaid=679)
