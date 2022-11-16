@@ -36,9 +36,9 @@ tags: []
 
 <!-- - [What the Public Should Know about Globalization and the World Trade Organization](/pdf/GloabalizationWTO4Public.pdf) -->
 
-<!-- - [Introduction to WTO](/pdf/intro_to_WTO.pdf) -->
-<!--   - Stops at pp28! -->
+- [Introduction to WTO](/pdf/intro_to_WTO.pdf)
+  - Stops at pp93!
 
-<!-- ## Video Link -->
+## Video Link
 
-<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/_QTUQz_RW1gym0Wi7SMAlenmJuZ7e7oJbmwWB-Ltk0LNbkQAqn9HxrowtRe9Bws5SPvEiq6zb-aikfzj.w52z-Y9KyQ9vZqxx?continueMode=true&_x_zm_rtaid=Q6lmJll_Qi-Fz9ZwFnkuJg.1668054002826.466aca8646f579ec0c4d04cd84a17ebb&_x_zm_rhtaid=679) -->
+Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/Uybz47O9dSLW4TN5MDKdxCOYU31rQhBZvkO5RoPoEbp6besZxKefSd0YKLpDqnq-Vn_HvGqKdxjPipBP.9DMy4eOxylsTchFL?continueMode=true&_x_zm_rtaid=AyPihuITRaiK1yD-q2m5zA.1668640843321.3184e6520a3ed2ea967a066ff5a1c7f5&_x_zm_rhtaid=195)
