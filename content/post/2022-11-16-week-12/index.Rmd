@@ -1,8 +1,43 @@
 ---
-title: Week 12
+title: "Week 12"
 author: ''
-date: '2022-11-16'
-slug: week-12
+date: "2022-11-16"
+slug: "week-12"
 categories: []
 tags: []
 ---
+## What have we covered this week?
+
+- Update of Grading Scheme:
+
+  <center> 
+| Problem   Sets 	|  	|  	| 20% 	|
+|:---:	|:---:	|:---:	|:---:	|
+| Attendance and Participation 	|  	|  	| 20% 	|
+|       Course project    	|  	|  	| 60% 	|               
+
+- Presentation of [Projects](https://chinawto.netlify.app/2022/10/27/project/)    
+<!-- \begin{table}[h] -->
+<!-- \begin{tabular}{llll} -->
+<!-- Problem   Sets               &  &  & 20\% \\ -->
+<!-- Attendance and Participation &  &  & 20\% \\ -->
+<!-- Course project               &  &  & 60\% -->
+<!-- \end{tabular} -->
+<!-- \end{table} -->
+
+- [Is the era of globalisation over?](https://www.economist.com/podcasts/2021/07/01/is-the-era-of-globalisation-over)
+
+- [In times of economic turmoil, can global trade help?](https://www.economist.com/podcasts/2022/09/29/in-times-of-economic-turmoil-can-global-trade-help)
+
+<!-- - [The 27th Conference of the Parties to the United Nations Framework Convention on Climate Change(COP27)](https://www.un.org/en/climatechange/cop27) -->
+
+<!-- - [Two dozen business groups wrote an open letter to Yellen and U.S. Trade Representative Katherine Tai](https://www.uschina.org/advocacy/regulatory-comments-on-china/industry-letter-us-china-trade-and-commercial-relations?utm_source=npr_newsletter&utm_medium=email&utm_content=20211206&utm_term=6068773&utm_campaign=money&utm_id=8338826&orgid=&utm_att1=money) -->
+
+<!-- - [What the Public Should Know about Globalization and the World Trade Organization](/pdf/GloabalizationWTO4Public.pdf) -->
+
+<!-- - [Introduction to WTO](/pdf/intro_to_WTO.pdf) -->
+<!--   - Stops at pp93! -->
+
+<!-- ## Video Link -->
+
+<!-- Video recording of lecture is available at [here](https://ksu.zoom.us/rec/play/Uybz47O9dSLW4TN5MDKdxCOYU31rQhBZvkO5RoPoEbp6besZxKefSd0YKLpDqnq-Vn_HvGqKdxjPipBP.9DMy4eOxylsTchFL?continueMode=true&_x_zm_rtaid=AyPihuITRaiK1yD-q2m5zA.1668640843321.3184e6520a3ed2ea967a066ff5a1c7f5&_x_zm_rhtaid=195) -->
