@@ -1,8 +1,8 @@
 ---
 title: "Week 1"
 author: ''
-date: '2022-09-01'
-slug: week-1
+date: "2022-09-01"
+slug: "week-1"
 categories: []
 tags: []
 ---
