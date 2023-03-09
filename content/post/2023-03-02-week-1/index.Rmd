@@ -1,0 +1,25 @@
+---
+title: "Week 1"
+author: ''
+date: "2023-03-02"
+output:
+  html_document:
+    df_print: paged
+categories: []
+tags: []
+slug: "week-1"
+---
+
+## Syllabus
+
+[pdf](/pdf/Syllabus_WEcon.pdf)
+
+## Lecture Slides
+
+[Chapter 1](/pdf/Todaro12e_PPT_CH01.pdf)
+
+[Chapter 2](/pdf/Todaro12e_PPT_CH02_AS.pdf)
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/9GBZqwCjufRhaNqG3XrQAB0k33TClC52JhgUI6dKg9qEn6nONMHRvZa15Rm_EXWagObx_HKTaEQCCb43.JLxdpQnVtxdl7_l2?continueMode=true&_x_zm_rtaid=ONBzi_6BROWlKFiLE35xhA.1678374032031.aa3fd126101587d93f6abbbfa5856cdc&_x_zm_rhtaid=989)
