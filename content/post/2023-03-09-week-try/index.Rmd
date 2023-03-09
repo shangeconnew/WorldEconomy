@@ -1,0 +1,26 @@
+---
+title: "Week 2"
+author: ''
+date: "2023-03-09"
+slug: "week-2"
+categories: []
+tags: []
+---
+## Review Questions
+
+[Chapter 1](/pdf/M01_Toda3929_12E_IM_C01.pdf)
+
+[Chapter 2](/pdf/M02_Toda3929_12E_IM_C02.pdf)
+
+## Lecture Slides
+
+[Chapter 3](/pdf/TodaroSmith_EconDev_ch03.pdf)
+
+[Chapter 4](/pdf/TodaroSmith_EconDev_ch04.pdf)
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/-CirbTORs-CaZUGzGifuALpyMNxr78VKpCBauSynKTLtXWLm0ZWBnulScAm60MKkCxBMkIjG7sEFoYci.LBEy2JJsETcJFLu7?continueMode=true&_x_zm_rtaid=ONBzi_6BROWlKFiLE35xhA.1678374032031.aa3fd126101587d93f6abbbfa5856cdc&_x_zm_rhtaid=989)
+
+
+
