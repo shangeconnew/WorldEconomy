@@ -1,2 +1,2 @@
-# ChinaWTO
+# WorldEconomy
  course
