@@ -1,0 +1,31 @@
+---
+title: "Week 3"
+author: ''
+date: "2023-03-16"
+output: pdf_document
+categories: []
+tags: []
+slug: "week-3"
+---
+## Review Questions
+
+[Chapter 3](/pdf/Summary_C03.pdf)
+
+[Chapter 4](/pdf/Summary_C04.pdf)
+
+## Lecture Slides
+
+[Chapter 5](/pdf/Todaro12e_PPT_CH05_AS.pdf)
+
+
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/d3turwzru5y1cZPkFJjMG00nyeO1MHBZSr8ocrDJD5tV9puQOb3p-G45Ik8S1qFx8iefRre_LQ3HUYoh.rlUbwg3LsR33obvN?continueMode=true&_x_zm_rtaid=fL9bqCfdQheRn-aAW3lbvQ.1679545146004.9c09e104b846a190ccd08a75f1910973&_x_zm_rhtaid=359)
+
+## Case Studies
+
+[Case Study 1: Brazil](/pdf/CaseStudy_1_Brazil.pdf)
+
+[Case Study 2: Pakistan & Bangladesh](/pdf/CaseStudy_2_PakiBang.pdf)
+
