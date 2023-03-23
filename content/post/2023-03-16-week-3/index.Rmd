@@ -2,7 +2,9 @@
 title: "Week 3"
 author: ''
 date: "2023-03-16"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 categories: []
 tags: []
 slug: "week-3"
@@ -29,3 +31,6 @@ Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/d3
 
 [Case Study 2: Pakistan & Bangladesh](/pdf/CaseStudy_2_PakiBang.pdf)
 
+[Case Study 3: South Korea & Argentina](/pdf/CaseStudy_3_SkArgentina.pdf)
+
+[Case Study 4: China](/pdf/CaseStudy_4_China.pdf)
