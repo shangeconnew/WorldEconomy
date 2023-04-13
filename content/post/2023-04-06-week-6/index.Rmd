@@ -1,0 +1,31 @@
+---
+title: "Week 6"
+author: ''
+date: "2023-04-06"
+slug: "week-6"
+categories: []
+tags: []
+---
+
+## Review Questions
+
+[Chapter 7](/pdf/M07_Toda3929_12E_IM_C07.pdf)
+
+
+## Lecture Slides
+
+[Chapter 8](/pdf/Todaro12e_PPT_CH08.pdf)
+
+
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/WKgs2-teYi-ux6MW5boRWfQNoTmS8WOEpeeceFycIFm07-iTy73D8_6zncbf0cyGmkro0a1aH5WFfSXH.gTkiu6C_gWuC1Np8?canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fksu.zoom.us%2Frec%2Fshare%2F5WB0KSrkwJk78N4D8uTzAI1JN5QPMul8RkMAMzmgDyKWr5mPypjEaQQkpWai_aCp.X_3SH_1UN7VX5IwR)
+
+<!-- ## Case Studies -->
+
+<!-- [Case Study 8: Mexico](/pdf/CaseStudy_8_Mexico.pdf) -->
+
+<!-- [Case Study 9: Kenya](/pdf/CaseStudy_9_Kenya.pdf) -->
+
+<!-- [Case Study 7: India & Botswana](/pdf/CaseStudy_7_IndiaBotswana.pdf) -->
