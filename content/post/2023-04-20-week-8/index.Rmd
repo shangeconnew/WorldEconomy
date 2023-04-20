@@ -1,0 +1,10 @@
+---
+title: "Week 8"
+author: ''
+date: "2023-04-20"
+slug: "week-8"
+categories: []
+tags: []
+---
+
+1. [NPR: The world's melting ice has surprising impacts. Can you guess them?](https://apps.npr.org/arctic-ice-melting-climate-change/)
