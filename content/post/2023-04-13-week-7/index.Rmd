@@ -14,7 +14,7 @@ tags: []
 
 ## Lecture Slides
 
-[Chapter 8](/pdf/Todaro12e_PPT_CH09.pdf)
+[Chapter 9](/pdf/Todaro12e_PPT_CH09.pdf)
 
 
 
