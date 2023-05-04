@@ -1,0 +1,23 @@
+---
+title: "Week 9"
+author: ''
+date: "2023-04-27"
+slug: "week-9"
+categories: []
+tags: []
+---
+
+## Review Questions
+
+[Chapter 10](/pdf/M10_Toda3929_12E_IM_C10.pdf)
+
+
+## Lecture Slides
+
+[Chapter 11](/pdf/Todaro12e_PPT_CH11.pdf)
+
+
+
+## Video Link
+
+Video recording of lecture is avaiable at [here](https://ksu.zoom.us/rec/play/XwirqMFhDYw36H61YNFnHgnXF_NEboGrQIomRrrr-fZnvJbyBYGbIeGTQd0DORlvvqqWD1u6Asg4hL2H.ruayIo_P-pNBQE97?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fksu.zoom.us%2Frec%2Fshare%2FD-eW1NIAEMlc4g458-ckg2KoqfF3ms5mcXGXIKoZGN_ablANJS94kyEJF-rPrB4.MX85jyrYiPXTcilN)
