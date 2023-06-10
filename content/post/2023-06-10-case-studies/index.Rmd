@@ -1,0 +1,38 @@
+---
+title: "Case Studies"
+author: ''
+date: "2023-06-10"
+slug: "case-studies"
+categories: []
+tags: []
+---
+
+## Case Studies
+
+[Case Study 1: Brazil](/pdf/CaseStudy_1_Brazil.pdf)
+
+[Case Study 2: Pakistan & Bangladesh](/pdf/CaseStudy_2_PakiBang.pdf)
+
+[Case Study 3: South Korea & Argentina](/pdf/CaseStudy_3_SkArgentina.pdf)
+
+[Case Study 4: China](/pdf/CaseStudy_4_China.pdf)
+
+[Case Study 5: Ghana & Côte d’Ivoire](/pdf/CaseStudy_5_GhanaCotedivoire.pdf)
+
+[Case Study 6: China & India](/pdf/CaseStudy_6_ChinaIndia.pdf)
+
+[Case Study 7: India & Botswana](/pdf/CaseStudy_7_IndiaBotswana.pdf)
+
+[Case Study 8: Mexico](/pdf/CaseStudy_8_Mexico.pdf)
+
+[Case Study 9: Kenya](/pdf/CaseStudy_9_Kenya.pdf)
+
+[Case Study 10: Haiti and the Dominican Republic](/pdf/CaseStudy_10_HaitiDominican.pdf)
+
+[Case Study 11: The Role of Development NGOs](/pdf/CaseStudy_11_NGOs.pdf)
+
+[Case Study 12: Taiwan](/pdf/CaseStudy_12_Taiwan.pdf)
+
+[Case Study 13: South Korea](/pdf/CaseStudy_13_SouthKorea.pdf)
+
+[Case Study 14: Costa Rica, Guatemala, and Honduras](/pdf/CaseStudy_14_CostaRica.pdf)
