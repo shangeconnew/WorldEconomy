@@ -36,3 +36,5 @@ tags: []
 [Case Study 13: South Korea](/pdf/CaseStudy_13_SouthKorea.pdf)
 
 [Case Study 14: Costa Rica, Guatemala, and Honduras](/pdf/CaseStudy_14_CostaRica.pdf)
+
+[Case Study 15: Botswana](/pdf/CaseStudy_15_Botswana.pdf)
